@@ -1,0 +1,9 @@
+C:\Users\Richard\Desktop\Soundboard GUI\Soundboard\Sounds\Sounds\bin\Debug\Sounds.exe.config
+C:\Users\Richard\Desktop\Soundboard GUI\Soundboard\Sounds\Sounds\bin\Debug\Sounds.exe
+C:\Users\Richard\Desktop\Soundboard GUI\Soundboard\Sounds\Sounds\bin\Debug\Sounds.pdb
+C:\Users\Richard\Desktop\Soundboard GUI\Soundboard\Sounds\Sounds\obj\Debug\Sounds.Form1.resources
+C:\Users\Richard\Desktop\Soundboard GUI\Soundboard\Sounds\Sounds\obj\Debug\Sounds.Properties.Resources.resources
+C:\Users\Richard\Desktop\Soundboard GUI\Soundboard\Sounds\Sounds\obj\Debug\Sounds.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\Soundboard GUI\Soundboard\Sounds\Sounds\obj\Debug\Sounds.exe
+C:\Users\Richard\Desktop\Soundboard GUI\Soundboard\Sounds\Sounds\obj\Debug\Sounds.pdb
+C:\Users\Richard\Desktop\Soundboard GUI\Soundboard\Sounds\Sounds\obj\Debug\Sounds.csprojResolveAssemblyReference.cache
